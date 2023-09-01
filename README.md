@@ -4,4 +4,8 @@
 
 ---
 
+https://#####.glitch.me/?lat=35.123456&lon=139.123456
+
+---
+
 Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved.
