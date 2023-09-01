@@ -12,7 +12,6 @@
     "@fastify/formbody": "^7.4.0",
     "@fastify/static": "^6.10.2",
     "@fastify/view": "^8.0.0",
-    "request": "^2.88.2",
     "jimp": "^0.22.10"
   },
   "engines": {
